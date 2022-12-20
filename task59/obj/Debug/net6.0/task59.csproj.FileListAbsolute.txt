@@ -1,0 +1,15 @@
+C:\1GB\C#\Seminar8\task59\bin\Debug\net6.0\task59.exe
+C:\1GB\C#\Seminar8\task59\bin\Debug\net6.0\task59.deps.json
+C:\1GB\C#\Seminar8\task59\bin\Debug\net6.0\task59.runtimeconfig.json
+C:\1GB\C#\Seminar8\task59\bin\Debug\net6.0\task59.dll
+C:\1GB\C#\Seminar8\task59\bin\Debug\net6.0\task59.pdb
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.csproj.AssemblyReference.cache
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.GeneratedMSBuildEditorConfig.editorconfig
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.AssemblyInfoInputs.cache
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.AssemblyInfo.cs
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.csproj.CoreCompileInputs.cache
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.dll
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\refint\task59.dll
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.pdb
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\task59.genruntimeconfig.cache
+C:\1GB\C#\Seminar8\task59\obj\Debug\net6.0\ref\task59.dll
